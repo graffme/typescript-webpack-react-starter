@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "target": "ES2015",
+    "module": "commonjs",
+    "strict": true,
+    "noUnusedLocals": true,
+    "noImplicitAny": true, /* Raise error on expressions and declarations with an implied 'any' type. */
+    "noUnusedParameters": true,
+    "noImplicitReturns": true,
+    "jsx": "react",
+  },
+  "include": [
+    "src/**/*"
+  ],
+  "exclude": [
+    "node_modules",
+    "build"
+  ]
+}
