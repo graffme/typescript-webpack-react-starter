@@ -1,0 +1,19 @@
+{
+  "name": "typescript-webpack-react-babel",
+  "version": "1.0.0",
+  "description": "Typescript + Webpack + React + Babel starter.",
+  "main": "index.js",
+  "keywords": [
+    "webpack",
+    "react",
+    "typescript",
+    "babel",
+    "ts-loader",
+    "TSlinter"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daria Rucka",
+  "license": "ISC"
+}
