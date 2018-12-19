@@ -16,6 +16,10 @@ var config = {
     extensions: ['.ts', '.tsx', '.js', '.json'],
   },
 
+  devServer: {
+    port: 3000
+  },
+
   module: {
     rules: [{
       test: /\.ts(x?)$/,
