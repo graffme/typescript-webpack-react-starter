@@ -6,5 +6,5 @@ export interface AppProps {
 }
 
 export const App = (props: AppProps) => (
-  <h1 className="color-text">Greetings from the {props.place}!</h1>
+  <h1 className="colorText">Greetings from the {props.place}!</h1>
 );
