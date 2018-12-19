@@ -1,0 +1,24 @@
+{
+  "defaultSeverity": "warning",
+  "extends": [
+    "tslint:recommended",
+    "tslint-config-standard",
+    "tslint-react",
+    "tslint-onfig-prettier"
+  ],
+  "jsRules": {
+    "max-line-length": {
+      "options": [120]
+    }
+  },
+  "rules": {
+    "max-line-length": {
+      "options": [120]
+    },
+  },
+  "linterOptions": {
+    "exclude": [
+      "node_modules/*"
+    ]
+  }
+}
