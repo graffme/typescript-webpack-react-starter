@@ -10,9 +10,8 @@ This starter includes:
 * [ts-loader](https://github.com/TypeStrong/ts-loader) and [fork-ts-checker-webpack-plugin](https://github.com/Realytics/fork-ts-checker-webpack-plugin) (for Typescript and Webpack to work together)
 * [React](https://reactjs.org/) (for view layer)
 * [SASS](https://sass-lang.com/) (for styles)
-* [Jest](https://jestjs.io/) and [Enzyme](https://github.com/airbnb/enzyme) (for tests)
 
-## Resources 📚📚📚 
+## Resources 📚📚📚
 
 The repo is mainly based on [react-webpack-typescript-babel](https://github.com/a-tarasyuk/react-webpack-typescript-babel) sample setup which is a part of TypeScript Quick Start. It's an extention of [this](https://github.com/Microsoft/TypeScript-Babel-Starter#readme) project where you can find a configuration step by step. If you are looking for a reliable boilerplates then use those!
 
@@ -22,3 +21,5 @@ Some other articles I find helpful:
 * [TypeScript Documentation - React & Webpack](https://www.typescriptlang.org/docs/handbook/react-&-webpack.html)
 * [Typescript-React-Starter](https://github.com/Microsoft/TypeScript-React-Starter) github repo for create-react-app with a nice guide
 * [Configure TypeScript, TSLint, and Prettier in VS Code for React Native Development](https://medium.com/@sgroff04/configure-typescript-tslint-and-prettier-in-vs-code-for-react-native-development-7f31f0068d2) article by Sean Groff. This one is for React Native, but it's a good guide!
+* [Configuring React 16 + Jest + Enzyme + Typescript](https://medium.com/@mateuszsokola/configuring-react-16-jest-enzyme-typescript-7122e1a1e6e8) great article for Jest and Enzyme configuration.
+* [Testing React / Redux Apps with Jest & Enzyme - Part 1: Installation & Setup](https://alligator.io/react/testing-react-redux-with-jest-enzyme/)
