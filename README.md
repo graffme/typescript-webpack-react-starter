@@ -21,5 +21,3 @@ Some other articles I find helpful:
 * [TypeScript Documentation - React & Webpack](https://www.typescriptlang.org/docs/handbook/react-&-webpack.html)
 * [Typescript-React-Starter](https://github.com/Microsoft/TypeScript-React-Starter) github repo for create-react-app with a nice guide
 * [Configure TypeScript, TSLint, and Prettier in VS Code for React Native Development](https://medium.com/@sgroff04/configure-typescript-tslint-and-prettier-in-vs-code-for-react-native-development-7f31f0068d2) article by Sean Groff. This one is for React Native, but it's a good guide!
-* [Configuring React 16 + Jest + Enzyme + Typescript](https://medium.com/@mateuszsokola/configuring-react-16-jest-enzyme-typescript-7122e1a1e6e8) great article for Jest and Enzyme configuration.
-* [Testing React / Redux Apps with Jest & Enzyme - Part 1: Installation & Setup](https://alligator.io/react/testing-react-redux-with-jest-enzyme/)
